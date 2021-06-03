@@ -1,4 +1,4 @@
-Database project
+Database project Teacher-Student
 
 # Getting Started with Create React App
 
