@@ -1,4 +1,4 @@
-Database project Teacher-Student admin
+Database project Teacher-Student admin using MERN stack
 
 # Getting Started with Create React App
 
