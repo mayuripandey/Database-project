@@ -1,4 +1,4 @@
-Database project Teacher-Student admin using MERN stack AND SLESFORCE
+Database project Teacher-Student admin using MERN stack AND SLESFORCE..
 i.e
 
 # Getting Started with Create React App.
