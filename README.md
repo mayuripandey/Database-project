@@ -1,5 +1,5 @@
 Latest Updated Version
-Database project Teacher-Student admin using MERN stack AND SLESFORCE..
+Database project Teacher-Student admin using MERN stack AND SaLESFORCE..
 
 # Getting Started with Create React App.
 
